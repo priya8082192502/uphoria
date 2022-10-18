@@ -1,0 +1,245 @@
+https://cloudacademy.com/course/az-400-exam-preparation-introduction/az-400-exam-preparation-introduction/?context_resource=lp&context_id=1368
+move and mobility project venkatesh team core dotnet application-->TCL-->1.8 period of time
+variable component basic and flexi component--hra,meal coupons,fix and variable 12% after 2--bu and ci performacnce.Lead==Assistance manager
+https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions
+https://drive.google.com/drive/folders/1q6lGWF2wI_57gk0aJrStEhce7Cm9CNc5
+https://www.youtube.com/watch?v=4ZROUuhttW4&feature=youtu.be
+https://www.examtopics.com/exams/microsoft/az-400/
+https://www.whizlabs.com/
+https://www.itexams.com/exam/AZ-400
+
+from Rajib singh to All Attendees:
+https://drive.google.com/drive/folders/1q6lGWF2wI_57gk0aJrStEhce7Cm9CNc5?usp=sharing
+
+
+from Rajib singh to All Attendees:
+https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs
+from Rajib singh to All Attendees:
+https://www.azuredevopslabs.com/
+
+
+from Rajib singh to All Participants:
+https://drive.google.com/drive/folders/1q6lGWF2wI_57gk0aJrStEhce7Cm9CNc5?usp=sharing
+
+from Rajib singh to All Attendees:
+https://drive.google.com/drive/folders/1q6lGWF2wI_57gk0aJrStEhce7Cm9CNc5?usp=sharing
+
+
+from Rajib singh to All Attendees:
+https://drive.google.com/drive/folders/1q6lGWF2wI_57gk0aJrStEhce7Cm9CNc5?usp=sharing
+
+from Rajib singh to All Attendees:
+A1C5E19D8EEF452E
+
+https://gsi.learnondemand.net/Class/472946
+from Rajib singh to All Attendees:
+http://dev.azure.com/
+
+from Rajib singh to All Attendees:
+A1C5E19D8EEF452E
+
+
+https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs
+https://aka.ms/azpipelines-parallelism-request
+from Rajib singh to All Participants:
+https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-webdeploy-iis-deploygroups?view=azure-devops
+from Rajib singh to All Participants:
+Install-WindowsFeature Web-Server,Web-Asp-Net45,NET-Framework-Features
+
+https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs
+https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs
+
+
+https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts
+
+
+https://www.terraform.io/downloads
+from Rajib singh to All Participants:
+https://registry.terraform.io/browse/modules
+from Anil Kumar Kore to All Participants:
+
+
+from Rajib singh to All Participants:
+https://azuredevopslabs.com/labs/vstsextend/terraform/
+
+from Rajib singh to All Participants:
+https://www.azuredevopslabs.com/labs/vstsextend/terraform/
+from Rajib singh to All Participants:
+https://docs.microsoft.com/en-us/learn/browse/
+from Rajib singh to All Participants:
+https://www.examtopics.com/exams/microsoft/
+from Rajib singh to All Participants:
+https://vceplus.io/exam-az-400/
+from Rajib singh to All Participants:
+https://www.whizlabs.com/
+from Rajib singh to All Participants:
+1- Repo----
+2-Managing Open-Source Security and License with Whitesource -
+ https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource
+3--
+Infra deployment-Infra as a code
+-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell
+Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines -
+https://www.terraform.io/docs/providers/index.html
+-https://azuredevopslabs.com/labs/vstsextend/terraform/
+
+
+https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/master/Instructions/Labs
+
+from Mohit Gupta to All Participants:
+1) Even after closing bug deployment slot is failing?
+2) Deployment slot created but code is deploying to both prod and staging automatically without swapping?
+from Rajib singh to All Participants:
+ref microsoft lab manual to fix Buid revise (CI)
+1- https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
+Relese (CD)
+2-https://azuredevopslabs.com/labs/azuredevops/continuousdeployment/
+from Rajib singh to All Participants:
+add approval between two stage
+from Swapna M to All Participants:
+Not audible
+from Chintala Vijaysai to All Participants:
+yes
+from Chakradhar Parua to All Participants:
+yes
+from Siva Reddy Padala to All Participants:
+yes
+from Pravin Rajappan to All Participants:
+yes
+from Mahesh Potu to All Participants:
+yes 
+from Aiden Binu Jacob to All Participants:
+yes
+from Swapna M to All Participants:
+yes
+from Pramod Kumar to All Participants:
+Yes
+from Veera Sarveswara Reddy Annem to All Participants:
+yes
+from Chandra Prasath Chitti Babu to All Participants:
+tes
+from Chittiprasad Chintapalli to All Participants:
+es
+from Chittiprasad Chintapalli to All Participants:
+yes
+from Rajesh C Sankaranarayanan to All Participants:
+No
+from Ravikumar Somachar to All Participants:
+Yes
+from Chintala Vijaysai to All Participants:
+yeah
+from Waseem Ahmed Faheemuddin Shaikh to All Participants:
+yes
+from Shavina K to All Participants:
+no
+from Abhay Singh to All Participants:
+Not able to hear the voice.
+from Siva Reddy Padala to All Participants:
+yes
+from Waseem Ahmed Faheemuddin Shaikh to All Participants:
+yes
+from Chakradhar Parua to All Participants:
+yes
+from Anupriya LNU to All Participants:
+yes
+from Ramkumar Devarajan to All Participants:
+I received DMOC code and Azure pass
+from Super User 042 to All Participants:
+Jayapriya.D@cognizant.com
+from Rajib singh to All Attendees:
+https://www.skillpipe.com/
+from Ravikumar Somachar to All Participants:
+please paste link in chat window 
+from Ravikumar Somachar to All Participants:
+got it
+
+
+
+
+Exam-->https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz
+from Rajib singh to All Attendees:
++919999378502
+from Rajib singh to All Participants:
+https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement
+from Rajib singh to All Participants:
+PS C:\rajpack> .\nuget.exe install HelloWorld 
+./nuget.exe push -source "https://pkgs.dev.azure.com/rajibmstar303new/hhh/_packaging/privatefeed/nuget/v3/index.json" -ApiKey azuredevops HelloWorld/HelloWorld.nupkg
+from Srinivasa Reddy Atla to All Participants:
+3
+from Ramkumar Devarajan to All Participants:
+3
+from Rajib singh to All Participants:
+https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app
+from Chittiprasad Chintapalli to All Participants:
+docker 
+from Rajib singh to All Participants:
+https://azuredevopslabs.com/labs/vstsextend/kubernetes/#access-the-kubernetes-web-dashboard-in-azure-kubernetes-service-aks
+from Arif Mohammed  Khan to All Participants:
+yes
+from Rajib singh to All Participants:
+https://azuredevopslabs.com/labs/azuredevops/yaml/
+from Rajib singh to All Participants:
+https://azuredevopslabs.com/labs/azuredevops/yaml/
+from Rajib singh to All Participants:
+/etc/puppetlabs/code/environments/production/manifests/site.pp
+from Rajib singh to All Participants:
+https://docs.chef.io/?_ga=2.141635447.494969584.1659697033-1281478247.1659697033
+from Rajib singh to All Participants:
+https://puppet.com/docs/
+from Rajib singh to All Participants:
+https://www.ansible.com/use-cases/configuration-management
+from Rajib singh to All Participants:
+https://drive.google.com/drive/folders/1q6lGWF2wI_57gk0aJrStEhce7Cm9CNc5?usp=sharing
+from Rajib singh to All Participants:
+https://docs.microsoft.com/en-us/learn/browse/
+from Rajib singh to All Attendees:
+https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz
+from Rajib singh to All Attendees:
+
+
+
+
+
+
+
+
+
+
+AZ-700
+
+https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fesi.learnondemand.net%2F&data=05%7C01%7Cnaveenh%40cloudthat.com%7Cca2dce669d0a4beccdfb08da3616caf8%7C815db2f71e3a438f8bdde55de825adee%7C0%7C0%7C637881768787814510%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=T0g3aK7%2B5R4vqxmsb4DCkOG8ziMUjiV9zuCSGoh06SM%3D&reserved=0
+https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fesi.learnondemand.net%2F&data=05%7C01%7Cnaveenh%40cloudthat.com%7Cca2dce669d0a4beccdfb08da3616caf8%7C815db2f71e3a438f8bdde55de825adee%7C0%7C0%7C637881768787814510%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=T0g3aK7%2B5R4vqxmsb4DCkOG8ziMUjiV9zuCSGoh06SM%3D&reserved=0
+0CE7338227C247C9/0CE7338227C247C9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

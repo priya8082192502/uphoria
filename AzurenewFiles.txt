@@ -1,0 +1,204 @@
+https://www.youtube.com/watch?v=MKZ0zxU1Z8w&list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB--core120
+https://www.youtube.com/watch?v=Nn-JknHlZIw&list=PLX07l0qxoHFLiJUXKziLKZirnPpp7CJou&index=10
+https://www.youtube.com/watch?v=C6dveCEqWmg&list=PLIanKHYkR6o0Y7Peo3yrEghujyozufga9----->azure 204
+https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/blob/master/Instructions/Labs/AZ-204_lab_01.md--<labs
+
+
+[5:11 PM] Sweta Verma, HCL
+Detaile Course Content with MS Docs https://docs.microsoft.com/en-us/training/courses/az-500t00?wt.mc_id=esi_m2l_content_wwl Lab Links https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/ Dumps https://vceplus.io/exam-az-500-microsoft-azure-security-technologies/ MS Paint One Drive Link https://1drv.ms/u/s!AmVFZ3d3fAZRglPSIkht0fIoUy_d?e=l3au3x Official Email Address
+jitin@cloudthat.net
+Course AZ-500T00--A: Microsoft Azure Security Technologies - Learn
+Course AZ-500T00--A: Microsoft Azure Security Technologies
+
+[5:12 PM] Sweta Verma, HCL
+Detaile Course Content with MS Docs https://docs.microsoft.com/en-us/training/courses/az-500t00?wt.mc_id=esi_m2l_content_wwl Lab Links https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/ Dumps https://vceplus.io/exam-az-500-microsoft-azure-security-technologies/ MS Paint One Drive Link https://1drv.ms/u/s!AmVFZ3d3fAZRglPSIkht0fIoUy_d?e=l3au3x Official Email Address
+jitin@cloudthat.net
+Course AZ-500T00--A: Microsoft Azure Security Technologies - Learn
+Course AZ-500T00--A: Microsoft Azure Security Technologies
+
+
+
+
+
+
+
+
+
+
+StudentMarksheet 
+
+Id name subject marks
+1 a english 56
+2 a math 79
+3 a bio 86
+4 b english 67
+5 b math 76
+6 b bio 65
+
+
+select name,subject,max(marks)from 
+
+StudentMarksheet where marks <(select max(marks) from student)
+table employee empid  
+ table department  empid  
+table designations
+
+month()
+
+select 1 from employee 
+
+int[] abc={100,4,1,77,85,5,90,6}
+
+{100,1,90,4,85,5,77,6}
+
+sort[]{1,4,5,6,77,85,90,100}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public class GenericType<T> where T:class
+{}
+GenericType<int> gnericObj = new GenericType<int>(1);
+
+GenericType<string> gnericObj = new GenericType<string>("ashish");
+
+public class NodeList<T> where T : BaseEmployee
+{
+}
+public class BaseEmployee
+{
+ 
+}
+ 
+public class Employee : BaseEmployee
+{
+}
+ 
+public class Customer
+{
+}
+ 
+class Program
+{
+    static void Main(string[] args)
+    {
+       NodeList<Employee> employeeNodes = new NodeList<Employee>(); 
+ 
+       NodeList<Customer> customerNodes = new NodeList<Customer>(); 
+
+    }
+}
+
+[5:48 PM] KHAMITKAR Aravind GsciGbsFfcRte
+List<int> list = new List<int>() { 1, 2, 3, 4, 5, 6 };  
+var result=  list(a=>a%2==0).ToList
+
+
+[Test]
+Class caluclor{
+
+X 12
+
+y 10
+
+z select employedeptname,count(employee) As number from Employee groupby deptname
+
+
+
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Given an object of type IEnumerable<int> containing N items...
+Return the highest product possible by multiplying top 3 numbers from the list.
+
+private static List<int> _values = new List<int>() { 1, 5, 3, 2, 4, 8 };
+
+int index = 6
+list[_value -1 ]
+
+
+List<int>.Sort()
+
+WITH rownum AS (
+ SELECT *, ROW_NUMBER() OVER (ORDER BY rank ASC, id) AS rownum 
+ WHERE id = #{after_id}
+ FROM items )
+SELECT * FROM items
+OFFSET rownum
+ORDER BY rank ASC, id
+LIMIT #{pagination_limit}
+
+int [] arr={1,-7,-8,8,0,4}
+-7,-8,0,1,8,4
+
+[1:09 PM] Shonima Vijeesh
+1,-7,-8,8,0,4
+
+[1:09 PM] Shonima Vijeesh
+-7,-8,0,1,8,4
+
+
+passkey-->D35DD01F991442C4
+step1-->https://docs.microsoft.com/en-us/learn/paths/manage-identity-access/
+step2-->https://esi.learnondemand.net/
+step3-->Event Training Key:	D35DD01F991442C4
+https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/
+https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/identity-secure-score?branch=pr-52761
+https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-licensing#available-versions-of-azure-ad-multi-factor-authentication
+https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+https://labclient.labondemand.com/LabClient/981bfb71-d578-4423-b67e-cb4ddef2d977?rc=10
+https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies
+https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies
+https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
+
+
+foreach(int temp in arra)
+{
+if ()
+}
